@@ -1,0 +1,8 @@
+<interface>
+    <label x="10" y="20" width="100" height="30" fontsize="20">Label 1</label>
+
+    <input width="100" height="30" x="50" y="100"></input>
+    <input width="100" height="30" x="50" y="250"></input>
+    <button width="100" height="30" x="50" y="150"></button>
+    <button width="100" height="30" x="100" y="200"></button>
+</interface>

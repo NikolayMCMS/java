@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element>
+    <label>авторизация</label>
+    <input >Username:</input>
+    <label>Password:</label>
+    <input>password</input>
+    <button>Login</button>
+</element>
+
